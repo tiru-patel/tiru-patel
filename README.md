@@ -40,19 +40,12 @@
    <a href="#"><img alt="DevOps" src="https://img.shields.io/badge/DevOps-155C4F.svg?logoColor=white"></a>
 </p>
 
-## Languages & OS
+## Languages & Operating Systems
 
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%458812.svg?logo=Python&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>	
-    <a href="#"><img alt="YAML" src="https://img.shields.io/badge/YAML%20-2525D26.svg?logo=YAML&logoColor=white"></a>	
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/C%20-459F26.svg?logo=SQL&logoColor=white"></a>	
-</p>
-
-
-## Operating Systems
-<p>
 	<a href="#"><img alt="RedHat" src="https://img.shields.io/badge/Redhat-FF1B2D?logo=RedHat&logoColor=white"></a>
 	<a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-563D7C?logo=CentOS&logoColor=white"></a>
 	<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-FB542B?logo=CentOS&logoColor=white"></a>
