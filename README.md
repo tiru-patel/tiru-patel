@@ -88,14 +88,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tirupatel/"><img alt="Linkedin" title="Tirth Patel Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/tiru-patel"><img alt="Github" title="Tirth Patel Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://medium.com/@tirth1272"><img alt="Medium" title="Tirth Patel Medium" src="https://img.shields.io/badge/Medium-1877F2?style=for-the-badge&logo=Medium&logoColor=white"></a>
+  <a href="https://medium.com/@tirth1272"><img alt="Medium" title="Tirth Patel Medium" src="https://img.shields.io/badge/Medium?style=for-the-badge&logo=Medium&logoColor=white"></a>
   <a href="https://www.instagram.com/_tirth.patel_/"><img alt="Instagram" title="Tirth Patel Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="mailto:tirth1272@gmail.com"><img alt="Gmail" title="Tirth Patel Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/jaydeep91"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="http://twitter.com/jaydeep__Yadav_"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/7d84e454-3e99-4e55-95bf-5888926e1a5e"><img alt="Qwiklabs" title="Jaydeep Yadav Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </p>
 
 
