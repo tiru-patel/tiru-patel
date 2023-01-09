@@ -26,7 +26,7 @@
  
  ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=tiru-patel&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiru-patel&theme=blueberry_duo"/>
+<img src="![Anurag's GitHub stats]https://github-readme-stats.vercel.app/api?username=tiru-patel&count_private=true&theme=github_dark>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiru-patel&theme=blueberry_duo"/>
 |---|---|
 
 
