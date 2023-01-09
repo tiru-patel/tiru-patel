@@ -5,29 +5,29 @@
  ```python
   class WhoAmI:
     user = 'Tirth Patel'
-        current_edu = "MScAC @ University of Toronto"
+    current_edu = "MScAC @ University of Toronto"
     currently_learning = "MLOps"
     fun_fact = "I used to think correlation implied causation. Then I took a Statistics class. Now, I don't."
 	hobbies = [
-				'Music',
+				'Gaming',
                          'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
+			 	'Puzzle Solving',
+				'Crime-Thriller Movies'
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Toronto()
 	
 	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+		BecomeMLOpsEngineer()
+		FinishMyAssignments()
 	
  ```
 
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tiru-patel&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiru-patel&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
 
