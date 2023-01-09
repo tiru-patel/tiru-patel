@@ -11,7 +11,7 @@
     <a href="https://github.com/jaydeep-yadav">
         <img height="20" src="https://img.shields.io/github/followers/tiru-patel?label=follow&logo=github" />
 	</a>
-	 <a href="https://github.com/jaydeep-yadav">
+	 <a href="https://github.com/tiru-patel">
         <img height="20" src="https://img.shields.io/github/stars/tiru-patel?label=stars&logo=github" />
 	</a>
 </p>
