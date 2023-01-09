@@ -23,15 +23,17 @@
 		FinishMyAssignments()
 	
  ```
+## Skills
+<p>
+   <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-470C40?logo=MachineLearning&logoColor=white"></a>
+   <a href="#"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep Learning-%651A24.svg?logo=DeepLearning&logoColor=white"></a>
+   <a href="#"><img alt="Data Science" src="https://img.shields.io/badge/Data Science-%745D1C.svg?logo=tailwindcss&logoColor=white"></a>
+   <a href="#"><img alt="Vision" src="https://img.shields.io/badge/Vision-%384F32.svg?logo=Vision&logoColor=white"></a>
+   <a href="#"><img alt="Natural Language Processing" src="https://img.shields.io/badge/NLP-%268J16.svg?logo=NLC&logoColor=white"></a>
+   <a href="#"><img alt="DevOps" src="https://img.shields.io/badge/DevOps-%485Q1A.svg?logo=DevOps&logoColor=white"></a>
+</p>
 
- 
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=tiru-patel&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiru-patel&theme=blueberry_duo"/>
-|---|---|
-
-
-## Languages
+## Languages & OS
 
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%458812.svg?logo=Python&logoColor=white"></a>
@@ -39,20 +41,11 @@
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>	
 </p>
 
-## Skills
-<p>
-   <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-563D7C?logo=MachineLearning&logoColor=white"></a>
-   <a href="#"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep Learning-%2338B2AC.svg?logo=DeepLearning&logoColor=white"></a>
-   <a href="#"><img alt="Data Science" src="https://img.shields.io/badge/Data Science-%1587654.svg?logo=tailwindcss&logoColor=white"></a>
-   <a href="#"><img alt="Vision" src="https://img.shields.io/badge/Vision-%328795.svg?logo=Vision&logoColor=white"></a>
-   <a href="#"><img alt="Natural Language Processing" src="https://img.shields.io/badge/NLP-%5234H45.svg?logo=NLC&logoColor=white"></a>
-   <a href="#"><img alt="DevOps" src="https://img.shields.io/badge/DevOps-%041598.svg?logo=DevOps&logoColor=white"></a>
-</p>
 
 ## Operating Systems
 <p>
 	<a href="#"><img alt="RedHat" src="https://img.shields.io/badge/Redhat-FF1B2D?logo=RedHat&logoColor=white"></a>
-	<a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-470C40?logo=CentOS&logoColor=white"></a>
+	<a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-563D7C?logo=CentOS&logoColor=white"></a>
 	<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-FB542B?logo=CentOS&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 	
@@ -71,4 +64,9 @@
   <a href="mailto:tirth1272@gmail.com"><img alt="Gmail" title="Tirth Patel Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+ 
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=tiru-patel&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiru-patel&theme=blueberry_duo"/>
+|---|---|
 
