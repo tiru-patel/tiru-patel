@@ -46,8 +46,8 @@
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%458812.svg?logo=Python&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>	
-    <a href="#"><img alt="YAML" src="https://img.shields.io/badge/YAML%34-%4545E4.svg?logo=c&logoColor=white"></a>	
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/C%20-%FG455C.svg?logo=c&logoColor=white"></a>	
+    <a href="#"><img alt="YAML" src="https://img.shields.io/badge/YAML%20-%4545E4.svg?logo=yaml&logoColor=white"></a>	
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/C%20-%FG455C.svg?logo=sql&logoColor=white"></a>	
 </p>
 
 
