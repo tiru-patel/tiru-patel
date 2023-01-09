@@ -50,9 +50,10 @@
 
 ## Operating Systems
 <p>
-	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
+	<a href="#"><img alt="RedHat" src="https://img.shields.io/badge/Redhat-557C94?logo=RedHat&logoColor=white"></a>
+	<a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-510C17?logo=CentOS&logoColor=white"></a>
+	<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-470C54?logo=CentOS&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
 	
 </p>
 
