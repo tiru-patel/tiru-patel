@@ -25,7 +25,7 @@
  ```
 ## Skills
 <p>
-   <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-470C40?logo=MachineLearning&logoColor=white"></a>
+   <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-470C40?logoColor=white"></a>
    <a href="#"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep Learning-%651A24.svg?logo=DeepLearning&logoColor=white"></a>
    <a href="#"><img alt="Data Science" src="https://img.shields.io/badge/Data Science-%745D1C.svg?logo=tailwindcss&logoColor=white"></a>
    <a href="#"><img alt="Vision" src="https://img.shields.io/badge/Vision-%384F32.svg?logo=Vision&logoColor=white"></a>
