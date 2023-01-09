@@ -4,10 +4,10 @@
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+    user = 'Tirth Patel'
+        current_edu = "MScAC @ University of Toronto"
+    currently_learning = "MLOps"
+    fun_fact = "I used to think correlation implied causation. Then I took a Statistics class. Now, I don't."
 	hobbies = [
 				'Music',
                          'Chilling',
