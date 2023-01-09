@@ -39,10 +39,14 @@
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>	
 </p>
 
-## Frameworks and Libraries
+## Skills
 <p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+   <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-563D7C?logo=MachineLearning&logoColor=white"></a>
+   <a href="#"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep Learning-%2338B2AC.svg?logo=DeepLearning&logoColor=white"></a>
+   <a href="#"><img alt="Data Science" src="https://img.shields.io/badge/Data Science-%4587S12.svg?logo=tailwindcss&logoColor=white"></a>
+   <a href="#"><img alt="Vision" src="https://img.shields.io/badge/Vision-%8741X36.svg?logo=Vision&logoColor=white"></a>
+   <a href="#"><img alt="Natural Language Processing" src="https://img.shields.io/badge/NLP-%5234H45.svg?logo=NLC&logoColor=white"></a>
+   <a href="#"><img alt="DevOps" src="https://img.shields.io/badge/DevOps-%3451L10.svg?logo=DevOps&logoColor=white"></a>
 </p>
 
 ## Operating Systems
