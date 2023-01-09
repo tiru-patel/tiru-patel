@@ -85,7 +85,7 @@
 </p>
 
 ## Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/tirupatel/"><img alt="Linkedin" title="Tirth Patel Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/tiru-patel"><img alt="Github" title="Tirth Patel Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://medium.com/@tirth1272"><img alt="Medium" title="Tirth Patel Medium" src="https://img.shields.io/badge/Medium-147852?style=for-the-badge&logo=Medium&logoColor=white"></a>
