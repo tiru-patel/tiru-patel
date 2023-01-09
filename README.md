@@ -35,7 +35,7 @@
    <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-470C40?logoColor=white"></a>
    <a href="#"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep Learning-345874.svg?logoColor=white"></a>
    <a href="#"><img alt="Data Science" src="https://img.shields.io/badge/Data Science-745D1C.svg?logoColor=white"></a>
-   <a href="#"><img alt="Vision" src="https://img.shields.io/badge/Vision-FE102B.svg?logoColor=white"></a>
+   <a href="#"><img alt="Vision" src="https://img.shields.io/badge/Vision-FC702B.svg?logoColor=white"></a>
    <a href="#"><img alt="Natural Language Processing" src="https://img.shields.io/badge/NLP-354F1C.svg?logoColor=white"></a>
    <a href="#"><img alt="DevOps" src="https://img.shields.io/badge/DevOps-155C4F.svg?logoColor=white"></a>
 </p>
