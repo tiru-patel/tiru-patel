@@ -1,5 +1,21 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Tirth;I+Love+Automation;An+Open+Source+Enthusiast;RedHat+Certified;Loves+To+Troubleshoot;">
+</p>
+
+<p align="center">
+    <a href="https://github.com/">
+        <img src="https://komarev.com/ghpvc/?username=tiru-patel" alt="tiru-patel" />
+    </a>
+    <a href="https://github.com/jaydeep-yadav">
+        <img height="20" src="https://img.shields.io/github/followers/tiru-patel?label=follow&logo=github" />
+	</a>
+	 <a href="https://github.com/jaydeep-yadav">
+        <img height="20" src="https://img.shields.io/github/stars/tiru-patel?label=stars&logo=github" />
+	</a>
+</p>
+
 ## Who am I?
 
  ```python
@@ -26,7 +42,7 @@
  
  ## Github Stats
 
-<img src="![Anurag's GitHub stats]https://github-readme-stats.vercel.app/api?username=tiru-patel&count_private=true&theme=github_dark>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiru-patel&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tiru-patel&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiru-patel&theme=blueberry_duo"/>
 |---|---|
 
 
