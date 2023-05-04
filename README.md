@@ -23,7 +23,7 @@
     fun_fact = "I used to think correlation implied causation. Then I took a Statistics class. Now, I don't."
 	hobbies = [
 				'Gaming',
-                         'Chilling',
+                         'Chess',
 			 	'Puzzle Solving',
 				'Crime-Thriller Movies'
 			]
